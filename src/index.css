@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+@layer base {
+  html,
+  body {
+    @apply font-sans; /* Applies Nunito to all text */
+  }
+}
+
+/* global.css */
+::-webkit-scrollbar {
+  width: 8px; /* Réduire la largeur de la barre de défilement */
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Couleur de fond de la piste de la barre de défilement */
+  border-radius: 7px; /* Ajouter un rayon de bordure */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888; /* Couleur de la barre de défilement */
+  border-radius: 7px; /* Ajouter un rayon de bordure */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Couleur de la barre de défilement au survol */
+}
