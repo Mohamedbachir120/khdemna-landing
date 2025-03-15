@@ -4,7 +4,7 @@ import AppLogo from './../assets/LOGO.png'; // Assurez-vous d'avoir l'image appr
 
 const Footer: React.FC = () => {
   return (
-    <div className="w-full bg-light-gray p-3 lg:p-10 text-text-secondary border-t mt-5">
+    <div className="w-full bg-light-gray p-5 lg:p-10 text-text-secondary border-t mt-5">
       <div className="flex flex-col lg:flex-row justify-between items-start lg:items-end">
         <div className="flex flex-col items-start mb-4 lg:mb-0">
           <img src={AppLogo} alt="App Logo" className="w-16 h-auto mb-4 rounded-2xl" />

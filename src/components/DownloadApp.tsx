@@ -4,7 +4,7 @@ import PlayStoreImage from './../assets/Playstore.png'; // Assurez-vous d'avoir 
 
 const DownloadApp: React.FC = () => {
   return (
-    <div className="w-full p-3 lg:p-20 flex flex-col items-center ">
+    <div className="w-full p-5 lg:p-20 flex flex-col items-center ">
       <h2 className="text-2xl lg:text-4xl font-bold ">Download Our App</h2>
       <h5 className='mt-5 mb-10'>The Rani Khadam app offers many benefits. Download the app right now from the App Store or Google Play.</h5>
       <div className="flex flex-col lg:flex-row items-center space-y-4 lg:space-y-0 lg:space-x-4">

@@ -9,7 +9,7 @@ import Avatar3 from "./../assets/avatars/Ellipse 10.svg";
 
 const MainComponent: React.FC = () => {
   return (
-    <div className="flex flex-col lg:flex-row w-full px-3 lg:px-20 mt-8">
+    <div className="flex flex-col lg:flex-row w-full px-5 lg:px-20 mt-8">
       <JobInfo />
       
       {/* First Column (60%) */}

@@ -16,7 +16,7 @@ const WhyRaniKhadam: React.FC = () => {
   ];
 
   return (
-    <div className="w-full p-3 lg:p-20">
+    <div className="w-full p-5 lg:p-20">
       <h2 className="text-center text-2xl lg:text-4xl font-bold mb-10">Why Rani Khadam is Right for You ?</h2>
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-3">
         {items.map((item, index) => (

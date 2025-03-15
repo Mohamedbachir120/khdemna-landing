@@ -2,7 +2,7 @@ import React from 'react';
 
 const ExperienceNumber: React.FC = () => {
   return (
-    <div className="w-full bg-lightest-pink p-3 lg:px-20 lg:py-10 ">
+    <div className="w-full bg-lightest-pink p-5 lg:px-20 lg:py-10 ">
       <div className="flex flex-col lg:flex-row justify-between items-center">
         {/* First Column */}
         <div className="flex flex-col w-full lg:w-1/2 mb-4 lg:mb-0">

@@ -3,7 +3,7 @@ import StandForImage from './../assets/whatWestand.png'; // Assurez-vous d'avoir
 
 const WhatWeStandFor: React.FC = () => {
   return (
-    <div className="w-full bg-light-gray p-3 lg:p-16 flex flex-col lg:flex-row items-center">
+    <div className="w-full bg-light-gray p-5 lg:p-16 flex flex-col lg:flex-row items-center">
       <div className="w-full lg:w-1/2 flex justify-center lg:px-24">
         <img src={StandForImage} alt="What We Stand For" className="w-full max-w-md h-auto object-contain" />
       </div>

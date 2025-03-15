@@ -5,7 +5,7 @@ const Header: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
-    <header className="w-full bg-white px-3 py-4 lg:px-20">
+    <header className="w-full bg-white px-5 py-4 lg:px-20">
       <div className="max-w-7xl mx-auto  flex justify-between items-center">
         {/* Logo */}
         <div className="text-text-primary text-2xl font-bold">
