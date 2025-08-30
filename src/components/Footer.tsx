@@ -21,7 +21,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           <div>
             <div className="flex items-center">
-              <img alt={t('logoAlt')} src="/src/assets/images/logo.png" width={40} height={40} className="rounded-full me-2" />
+              <img alt={t('logoAlt')} src="/images/logo.png" width={40} height={40} className="rounded-full me-2" />
               <span className="text-xl font-bold text-gray-800">{t('brandName')}</span>
             </div>
             <p className="mt-4 text-gray-500">{t('description')}</p>

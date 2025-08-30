@@ -31,10 +31,10 @@ const CallToAction = () => {
                         <h3 className="text-2xl sm:text-3xl font-bold text-white mb-6">{t('clients.title')}</h3>
                         <div className="flex justify-center items-center space-x-2 sm:space-x-4">
                             <a href={clientAppStoreUrl} target="_blank" rel="noopener noreferrer" className="transform hover:scale-105 transition-transform duration-300">
-                                <img src={'/src/assets/images/app-store-badge.svg'} alt={t('clients.appStoreAlt')} className="h-24 sm:h-28 md:h-32 w-auto"/>
+                                <img src={'/images/app-store-badge.svg'} alt={t('clients.appStoreAlt')} className="h-24 sm:h-28 md:h-32 w-auto"/>
                             </a>
                             <a href={clientGooglePlayUrl} target="_blank" rel="noopener noreferrer" className="transform hover:scale-105 transition-transform duration-300">
-                                <img src={'/src/assets/images/google-play-badge.svg'} alt={t('clients.googlePlayAlt')} className="h-24 sm:h-28 md:h-32 w-auto"/>
+                                <img src={'/images/google-play-badge.svg'} alt={t('clients.googlePlayAlt')} className="h-24 sm:h-28 md:h-32 w-auto"/>
                             </a>
                         </div>
                     </div>
@@ -44,10 +44,10 @@ const CallToAction = () => {
                         <h3 className="text-2xl sm:text-3xl font-bold text-white mb-6">{t('providers.title')}</h3>
                         <div className="flex justify-center items-center space-x-2 sm:space-x-4">
                             <a href={providerAppStoreUrl} target="_blank" rel="noopener noreferrer" className="transform hover:scale-105 transition-transform duration-300">
-                                <img src={'/src/assets/images/app-store-badge.svg'} alt={t('providers.appStoreAlt')} className="h-24 sm:h-28 md:h-32 w-auto"/>
+                                <img src={'/images/app-store-badge.svg'} alt={t('providers.appStoreAlt')} className="h-24 sm:h-28 md:h-32 w-auto"/>
                             </a>
                             <a href={providerGooglePlayUrl} target="_blank" rel="noopener noreferrer" className="transform hover:scale-105 transition-transform duration-300">
-                                <img src={'/src/assets/images/google-play-badge.svg'} alt={t('providers.googlePlayAlt')} className="h-24 sm:h-28 md:h-32 w-auto"/>
+                                <img src={'/images/google-play-badge.svg'} alt={t('providers.googlePlayAlt')} className="h-24 sm:h-28 md:h-32 w-auto"/>
                             </a>
                         </div>
                     </div>

@@ -12,7 +12,11 @@ const Header = () => {
     <header className="bg-hero text-white" dir={language === 'ar' ? 'rtl' : 'ltr'}>
       <nav className="container mx-auto px-6 py-4 flex justify-between items-center">
         <div className="flex items-center">
-          <img alt="Logo" src="/src/assets/images/logo.png" width={200} height={300} />
+          <a href="/">
+
+          <img alt="Logo" src="/images/logo.png" width={200} height={300} />
+
+          </a>
         </div>
         <div className="hidden md:flex items-center space-x-8">
           <a href="/" className="hover:text-gray-300">
@@ -109,7 +113,7 @@ const ConditionsGeneralesPage = () => {
               </div>
               <div className="hidden sm:block flex-shrink-0 ml-8">
                 <img
-                  src="/src/assets/images/illu-condition.png"
+                  src="/images/illu-condition.png"
                   alt={t('illustrationAlt')}
                   height={500}
                   width={300}
