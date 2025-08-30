@@ -1,0 +1,427 @@
+{
+  "Header": {
+    "home": "Home",
+    "services": "Services",
+    "howItWorks": "How It Works",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "joinUs": "Join Us"
+  },
+  "Conditions": {
+    "title": "Terms of Use",
+    "description": "Review the general terms of use for the KHDEMNA platform.",
+    "lastUpdated": "Last updated: August 20, 2025",
+    "illustrationAlt": "Terms of use illustration",
+    "section1": {
+      "title": "1. Introduction and Scope",
+      "description1": "KHDEMNA is an Algerian platform facilitating connections between individuals for home service provisions. Users can post service requests or offer their skills as providers. These general terms govern the use of the platform by all registered users, whether clients or providers.",
+      "description2": "KHDEMNA is a registered trademark, operated by a company registered in Algeria. (Address to be added)."
+    },
+    "section2": {
+      "title": "2. Definitions, Roles, Responsibilities, and Limitations",
+      "definitions": {
+        "title": "2.1 Definitions",
+        "platform": "KHDEMNA / Platform: an online service available via the website (URL to be inserted) and its mobile applications on iOS and Android.",
+        "client": "Client: a user seeking a provider to perform a service.",
+        "provider": "Provider: a user offering their services to clients.",
+        "service": "Service: any service published or offered via KHDEMNA.",
+        "member": "Member: any individual with an active client or provider account on the platform."
+      },
+      "role": {
+        "title": "2.2 Role of KHDEMNA",
+        "description": "KHDEMNA acts as an intermediary between parties. It facilitates the posting of advertisements and the search for providers but does not intervene in the execution of services or the resulting contractual relationship."
+      },
+      "nonAssumedRoles": {
+        "title": "2.3 Roles Not Assumed by KHDEMNA",
+        "description": "KHDEMNA does not play any role other than providing a platform for advertisements and connecting parties, and as such:",
+        "item1": "is neither an employer, recruiter, nor placement agency.",
+        "item2": "does not supervise services.",
+        "item3": "exercises no authority over clients or providers.",
+        "item4": "is not mandated by providers to seek third parties requesting services.",
+        "item5": "is not a party to any contract that may be formed between a client and a provider.",
+        "item6": "does not intervene at any point in the performance of services between clients and providers, which are beyond the scope of the platform’s responsibilities."
+      },
+      "clientResponsibilities": {
+        "title": "2.4 Client Responsibilities",
+        "item1": "Clients must provide accurate and detailed information.",
+        "item2": "They are solely responsible for their requests.",
+        "item3": "They must make the appropriate legal declarations if required by their relationship with a provider.",
+        "item4": "The estimated duration of a service is provided for guidance only. The client remains the decision-maker."
+      },
+      "providerCommitments": {
+        "title": "2.5 Provider Commitments",
+        "item1": "They must be legally authorized to practice in their country.",
+        "item2": "They commit to fulfilling their obligations and providing quality service."
+      },
+      "limitations": {
+        "title": "2.6 Limitations",
+        "ineligibleServices": {
+          "title": "2.6.1 Ineligible Services",
+          "description1": "KHDEMNA is a platform for home services. The list of services available on the platform may change at any time based on local regulations and the ability of members to offer the service.",
+          "description2": "However, without being exhaustive, the following activities are not permitted on the platform:",
+          "item1": "Any construction/renovation activities requiring mandatory insurance, affecting the structural integrity of a building, or rendering it unfit for its purpose.",
+          "item2": "Activities and tasks subject to mandatory insurance or regulated professions.",
+          "item3": "Activities in the financial, political, pharmaceutical, medical, industrial engineering, construction, mechanical, aerospace, nuclear, or defense sectors.",
+          "item4": "Financial consulting, financial communication, wealth management, investment, or general financial engineering activities."
+        },
+        "providerCompetencies": {
+          "title": "2.6.2 Provider Competencies",
+          "item1": "KHDEMNA allows providers to present their skills and equipment. KHDEMNA does not validate this data. Providers are solely responsible for offering services they are capable of performing, under the pricing conditions defined during booking.",
+          "item2": "The platform is a community space and publicly shares qualitative data about services performed, based on information provided by clients. This information is provided for informational purposes without KHDEMNA being able to verify it.",
+          "item3": "KHDEMNA is not responsible for the proper execution of the service but will make every effort to assist members within the scope of its responsibilities."
+        }
+      }
+    },
+    "section3": {
+      "title": "3. Member Registration",
+      "eligibility": {
+        "title": "3.1 Eligibility",
+        "description1": "Only individuals who are of legal age according to the legislation in the country where the service is performed and who have full legal capacity may register on the site.",
+        "description2": "KHDEMNA reserves the right to refuse registration to any individual who does not comply with these General Terms or applicable legislation."
+      },
+      "registrationMethod": {
+        "title": "3.2 Registration Method",
+        "description": "To post a job advertisement or a provider profile, any user must register on the site to become a member. They can do so by:",
+        "item1": "visiting the site, clicking on the 'Registration' tab, and filling in the mandatory fields in the registration form (username, password, postal code, valid email address, etc.). Once these fields are completed, the user must validate their registration by clicking the 'Register' button and accepting the site’s General Terms.",
+        "item2": "Providers must have their account creation validated by the company’s representatives at the local office."
+      },
+      "validity": {
+        "title": "3.3 Validity",
+        "description": "By validating their registration, the user acknowledges having provided accurate and up-to-date personal information in the registration form. If required information changes over time, the member undertakes to update their profile promptly."
+      }
+    },
+    "section4": {
+      "title": "4. Services and Financial Conditions for Clients",
+      "servicePricing": {
+        "title": "4.1 Service Pricing",
+        "description": "The price offered by the application is determined based on data from our dashboard. Prices are indexed according to the type of service and the duration of the service. These prices may change over time."
+      },
+      "platformFees": {
+        "title": "4.2 Platform Service Fees",
+        "description": "Posting a job advertisement on the platform is free; however, service fees apply to the provider once the service is validated. The service fee amount is equal to 20% of the provider’s compensation."
+      },
+      "paymentTerms": {
+        "title": "4.3 Payment Terms",
+        "cashPayments": {
+          "title": "4.3.1 Cash Payments",
+          "description": "The client is required to pay the provider at the end of the service. The provider, in turn, must pay a commission to the platform after each completed service."
+        },
+        "proofOfPayment": {
+          "title": "4.3.2 Proof of Payment",
+          "description": "Proof of the financial transaction is based on data recorded by the organization. Members are encouraged to keep the electronic receipt recorded in their account for personal needs. Service fee billing or certificates will be produced digitally; there will be no paper documents. All these elements, depending on the user’s activity, will be accessible on the platform."
+        }
+      }
+    },
+    "section5": {
+      "title": "5. KHDEMNA Insurance",
+      "description": "KHDEMNA cannot be held liable for damages caused during services. Depending on the situation, it is up to the client or provider to activate their appropriate insurance.",
+      "exclusion": {
+        "title": "5.1 Exclusion",
+        "description": "Theft, loss, or disappearance of entrusted property are cases that cannot be addressed by KHDEMNA. A judicial procedure must be initiated with the competent authorities."
+      }
+    },
+    "section6": {
+      "title": "6. Cancellation Policy",
+      "item1": "The client and the provider may cancel the booking at any time before the service is performed without any financial obligation to each other.",
+      "item2": "In case of cancellation by the provider, the client may select a new provider for the same task without additional fees."
+    },
+    "section7": {
+      "title": "7. Services and Financial Conditions for Providers",
+      "item1": "KHDEMNA provides providers with a dedicated mobile application, 'KHDEMNA Jobber,' allowing them to manage their profile, configure and automate their offers, synchronize their schedules, and improve their visibility score.",
+      "item2": "Access to the application and its use do not require a subscription or prepayment.",
+      "item3": "In return, the platform charges a commission on the income received directly through it."
+    },
+    "section8": {
+      "title": "8. Member Exclusion or Removal",
+      "violation": {
+        "title": "8.1 Violation of General Terms",
+        "description": "Any violation of these General Terms by a member may lead to their exclusion from the site."
+      },
+      "otherReasons": {
+        "title": "8.2 Other Reasons for Exclusion",
+        "description": "In general, members undertake not to use the site for purposes that are:",
+        "item1": "insulting, defamatory, contrary to public order, or good morals;",
+        "item2": "infringing on the privacy of third parties;",
+        "item3": "directly promotional or constituting prohibited advertising under applicable laws;",
+        "item4": "constituting unsolicited commercial messages;",
+        "item5": "intended to circumvent applicable social and tax rules regarding job requests or offers;",
+        "item6": "incompatible with personal data protection;",
+        "item7": "constituting disparagement of a company or its products, parasitism, unfair competition, or counterfeiting;",
+        "item8": "disrupting the operation of the site;",
+        "item9": "or more broadly, violating any law or regulation in force."
+      },
+      "consequences": {
+        "title": "8.3 Consequences of Exclusion",
+        "description": "In case of a member’s exclusion, KHDEMNA shall not be held liable, and all their job advertisements and/or provider profile will be deleted."
+      },
+      "accountDeletion": {
+        "title": "8.4 Account Deletion by a Member",
+        "item1": "Any member may close their account at any time, subject to fulfilling obligations incurred prior to closure (service performance, payment of fees, transactions between a client and a provider, etc.).",
+        "item2": "Upon account deletion, a message will alert the user regarding any ongoing transactions.",
+        "item3": "A deleted account cannot be recovered."
+      },
+      "inactivity": {
+        "title": "8.5 Inactivity",
+        "description": "In case of member inactivity for 365 consecutive days, the account will be considered abandoned and consequently deactivated. After this period, the account will be considered abandoned and deleted according to the same rules defined in the previous paragraph."
+      }
+    },
+    "section9": {
+      "title": "9. Provider Background Check Clause",
+      "backgroundCheck": {
+        "title": "9.1 Provider Background Checks",
+        "description": "To ensure safety and trust within the KHDEMNA community, each provider may be subject to a background check procedure before or during their use of the platform. Within the limits of applicable local laws, this procedure may include the following:",
+        "item1": "Identity Verification: KHDEMNA reserves the right to verify the provider’s identity using official identification documents provided by the provider.",
+        "item2": "Criminal Background Check: To the extent permitted by law, KHDEMNA may use specialized third-party services to verify that the provider has no relevant criminal convictions that could compromise user safety.",
+        "item3": "Professional Qualifications and Licenses: Providers must provide the necessary licenses, permits, or certifications for the services offered via KHDEMNA, in accordance with local laws. KHDEMNA does not systematically verify these documents but may request their submission as part of the background check."
+      },
+      "providerConsent": {
+        "title": "9.2 Provider Consent",
+        "description": "By registering on KHDEMNA, the provider consents to this background check and agrees that their data may be shared with KHDEMNA’s verification partners solely for the purpose of conducting this check. Information collected during this procedure will be processed in accordance with KHDEMNA’s Privacy Policy."
+      },
+      "liabilityLimitation": {
+        "title": "9.3 Limitation of Liability",
+        "description": "KHDEMNA strives to provide a secure environment by conducting checks but does not guarantee the accuracy, completeness, or timeliness of the information obtained during the background check. KHDEMNA disclaims any liability for misrepresentations or errors in the information provided by the provider or third-party services."
+      }
+    },
+    "section10": {
+      "title": "10. Personal Data Protection",
+      "description1": "In accordance with data protection laws, KHDEMNA is committed to protecting users’ personal data. This data is collected and processed solely for the purpose of using the platform.",
+      "item1": "Data Management: KHDEMNA does not share personal data with third parties without the explicit consent of users.",
+      "item2": "Access and Rectification Rights: In accordance with the law, users may access their personal data, modify it, or request its deletion by contacting KHDEMNA at [EMAIL ADDRESS TO BE ADDED].",
+      "description2": "For more details, please review our <a href='#' class='text-blue-600 hover:underline font-semibold'>Privacy Policy</a>."
+    },
+    "section11": {
+      "title": "11. Intellectual Property",
+      "khdemnaIP": {
+        "title": "11.1 KHDEMNA Intellectual Property",
+        "description": "KHDEMNA holds the intellectual property rights to the site as a platform for member advertisements (site architecture, feature organization, ergonomics, software functionalities, etc.). Any reproduction of the site’s constituent elements without KHDEMNA’s prior written authorization may constitute infringement and result in civil and/or criminal liability for the perpetrator."
+      },
+      "externalIP": {
+        "title": "11.2 Use of External Intellectual Property on the Site",
+        "description1": "Members undertake not to publish on the site any element (text, photograph, image, logo, or any other creation or sign subject to intellectual property rights) without the prior written consent of the rights holder.",
+        "description2": "As needed, members grant KHDEMNA a license to use the intellectual property rights attached to content they may insert on the site. This worldwide license, for the duration of the rights in question, includes KHDEMNA’s right to reproduce, represent, or adapt said content to ensure optimal presentation on the site (notably with regard to its graphic charter and technical performance)."
+      },
+      "contentLicense": {
+        "title": "11.3 License for Use of Content by KHDEMNA",
+        "description1": "Members (clients and providers) acknowledge and agree that any photograph, image, or visual content they publish on the KHDEMNA platform as part of a service advertisement or review may be used by KHDEMNA for promotional and communication purposes.",
+        "description2": "To this end, members grant KHDEMNA a worldwide, free, non-exclusive, and transferable license to reproduce, represent, modify, adapt, and distribute this content on all KHDEMNA-related communication media, including but not limited to:",
+        "item1": "The KHDEMNA website and mobile applications,",
+        "item2": "KHDEMNA’s social media platforms (Facebook, Instagram, LinkedIn, Twitter, etc.),",
+        "item3": "Online and offline advertising campaigns.",
+        "description3": "This license is granted for the entire duration of the intellectual property rights associated with said content, unless a written request for withdrawal is made by the member to [ADDRESS TO BE ADDED]. In such cases, KHDEMNA undertakes to remove the content concerned within a reasonable period, subject to technical constraints and ongoing campaigns."
+      }
+    }
+  },
+  "Footer": {
+    "logoAlt": "Khdemna Logo",
+    "brandName": "Khdemna",
+    "description": "Your trusted partner for finding home service professionals.",
+    "services": {
+      "title": "Services",
+      "plumbing": "Plumbing",
+      "handyman": "Handyman",
+      "cleaning": "Cleaning",
+      "building": "Building"
+    },
+    "resources": {
+      "title": "Resources",
+      "blog": "Blog",
+      "helpCenter": "Help Center",
+      "faq": "FAQ"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service"
+    },
+    "languages": {
+      "english": "English",
+      "french": "French",
+      "arabic": "Arabic"
+    },
+    "copyright": "© Khdemna. 2025. All Rights Reserved."
+  },
+  "Benefits": {
+    "slider": {
+      "title": "Improve Your Quality of Life with Home Services"
+    },
+    "services": [
+      {
+        "title": "Handyman",
+        "description": "Particularly useful for home improvements and repairing wear and tear over time.",
+        "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+      },
+      {
+        "title": "Moving",
+        "description": "Simplify moving and reduce emotional stress for family members.",
+        "image": "https://images.unsplash.com/photo-1587582423116-ec07293f0395?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+      },
+      {
+        "title": "Cleaning",
+        "description": "Free up time for personal, family, and professional activities.",
+        "image": "/src/assets/images/service-menage-a-domicile.jpg"
+      }
+    ],
+    "benefits": {
+      "title": "Our Main Benefits",
+      "description": "Discover why thousands of clients trust us to connect them with the best providers.",
+      "fastConnections": {
+        "title": "Fast Connections",
+        "description": "Quickly find and hire the right professional for your job."
+      },
+      "vettedProfessionals": {
+        "title": "Vetted Professionals",
+        "description": "All providers on our platform are background-checked and verified."
+      },
+      "communityPartnerships": {
+        "title": "Community & Partnerships",
+        "description": "We build strong relationships with local businesses and communities."
+      }
+    }
+  },
+  "Services": {
+    "title": "Providing Best Services",
+    "description": "We are dedicated to providing the best services in the home improvement industry. Our platform connects you with a wide range of professionals to handle any task, big or small.",
+    "plumbing": {
+      "title": "Plumbing Services",
+      "description": "From leaky faucets to major pipe repairs, find experienced plumbers to get the job done right.",
+      "image": "/images/plumber.png",
+      "alt": "Plumber fixing a sink",
+      "link": "Learn More"
+    },
+    "handyman": {
+      "title": "Handyman Services",
+      "description": "For all those small repairs and installations around the house, our handymen are ready to help.",
+      "image": "/images/handyMan2.png",
+      "alt": "Handyman assembling furniture",
+      "link": "Learn More"
+    },
+    "cleaning": {
+      "title": "Cleaning Services",
+      "description": "Book professional cleaning services for your home or office, from regular maintenance to deep cleaning.",
+      "image": "/images/CleaningMan.png",
+      "alt": "Person cleaning a window",
+      "link": "Learn More"
+    }
+  },
+  "Hero": {
+    "title": "Khdemna.. Your Service Delivered to Your Door",
+    "subtitle": "Book the Perfect Service Provider",
+    "categories": {
+      "summer": {
+        "icon": "🍦",
+        "name": "Summer"
+      },
+      "handyman": {
+        "icon": "🔨",
+        "name": "Handyman"
+      },
+      "cleaning": {
+        "icon": "🧹",
+        "name": "Cleaning"
+      },
+      "childcare": {
+        "icon": "🛒",
+        "name": "Childcare"
+      },
+      "homecare": {
+        "icon": "🛎️",
+        "name": "Homecare"
+      },
+      "tutoring": {
+        "icon": "🎓",
+        "name": "Tutoring"
+      }
+    }
+  },
+  "Faq": {
+    "title": "We Have 24/7 Support Available",
+    "description": "Our team is always here to help you with any questions or issues you may have.",
+    "contactButton": "Contact Support",
+    "faqs": {
+      "booking": {
+        "question": "How do I book a service provider?",
+        "answer": "Simply search for the service you need, browse through the list of available providers, check their profiles and reviews, and then book them directly through our platform."
+      },
+      "payment": {
+        "question": "What are the payment options?",
+        "answer": "We accept all major credit cards, PayPal, and direct bank transfers. All payments are processed securely through our platform."
+      },
+      "safety": {
+        "question": "Is it safe to let providers into my home?",
+        "answer": "Yes, absolutely. All providers on our platform undergo a rigorous background check and are verified for their qualifications and experience. Your safety is our top priority."
+      },
+      "satisfaction": {
+        "question": "What if I'm not satisfied with the service?",
+        "answer": "We have a satisfaction guarantee. If you're not happy with the service provided, please contact our support team within 24 hours, and we will work to resolve the issue or provide a refund."
+      }
+    }
+  },
+  "CallToAction": {
+    "title": "Ready to Get Started?",
+    "description": "Join our community today and connect with trusted professionals for all your home service needs.",
+    "clients": {
+      "title": "For Our Clients",
+      "appStoreAlt": "Download on the App Store",
+      "googlePlayAlt": "Get it on Google Play"
+    },
+    "providers": {
+      "title": "For Our Professionals",
+      "appStoreAlt": "Download on the App Store",
+      "googlePlayAlt": "Get it on Google Play"
+    },
+    "contactButton": "Contact Us"
+  },
+"aboutUs": {
+    "title": "About Us – Khdemna",
+    "introduction": "Khdemna is the first mobile application in Algeria dedicated to home services, designed to simplify your daily life. Cleaning, childcare, ironing, private tutoring... we connect you with trusted, verified, and available professionals, wherever you are, whenever you need them.",
+    "mission": {
+      "title": "Our Mission:",
+      "text": "To provide you with quick, secure, and transparent access to all home services through an intuitive, modern, and 100% Algerian platform."
+    },
+    "whatWeOffer": {
+      "title": "What We Offer:",
+      "items": {
+        "simpleApp": "A simple and fast application to use",
+        "clearPricing": "Transparent pricing with no surprises",
+        "qualifiedProviders": "Qualified local service providers",
+        "realTimeTracking": "Real-time service tracking"
+      }
+    },
+    "slogan": "Khdemna: because the service comes to you, no need to search everywhere.",
+    "tagline": "One click, and it's done."
+},
+"homeService": {
+    "mainTitle": "Khdemna",
+    "subtitle": "Your ultimate solution for at-home service, designed for your comfort and needs.",
+    "features": {
+      "reliability": {
+        "title": "Reliability ",
+        "description": "We put you in touch with verified and trusted professionals for a serene and secure experience."
+      },
+      "speed": {
+        "title": "Speed  ",
+        "description": "Order in a few clicks and benefit from a fast and punctual service wherever you are."
+      },
+      "transparency": {
+        "title": "Transparency  ",
+        "description": "No surprises when you choose, you validate, you follow. Everything is clear from the start."
+      },
+      "proximity": {
+        "title": "Proximity  ",
+        "description": "Local providers, close to you, who understand your daily needs."
+      },
+      "simplicity": {
+        "title": "Simplicity  ",
+        "description": "An intuitive interface, clear steps, a home service at your fingertips."
+      },
+      "professionalism": {
+        "title": "Professionalism ",
+        "description": "We rely on experienced, trained, and evaluated speakers for each mission."
+      }
+    },
+    "downloadButton": "Download the app"
+  }
+
+}

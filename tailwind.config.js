@@ -8,7 +8,7 @@ export default {
     extend: {
       colors: {
         // Primary
-        primary: "#C22021",       // Buttons and key elements
+        primary: "#6316DB",       // Buttons and key elements
         // Blues
         "light-blue": "#67A0F3",  // Occasional backgrounds
         "lightest-blue": "#F0F5FE",

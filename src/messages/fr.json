@@ -1,0 +1,426 @@
+{
+  "Header": {
+    "home": "Accueil",
+    "services": "Services",
+    "howItWorks": "Comment ça marche",
+    "about": "À propos",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "joinUs": "Rejoignez-nous"
+  },
+  "Conditions": {
+    "title": "Conditions d'utilisation",
+    "description": "Consultez les conditions générales d'utilisation de la plateforme KHDEMNA.",
+    "lastUpdated": "Dernière mise à jour : 20 août 2025",
+    "illustrationAlt": "Illustration des conditions d'utilisation",
+    "section1": {
+      "title": "1. Introduction et Champ d'application",
+      "description1": "KHDEMNA est une plateforme algérienne facilitant la mise en relation entre particuliers pour des prestations de services à domicile. Les utilisateurs peuvent publier des demandes de services ou proposer leurs compétences en tant que prestataires. Ces conditions générales régissent l'utilisation de la plateforme par tous les utilisateurs inscrits, qu'ils soient clients ou prestataires.",
+      "description2": "KHDEMNA est une marque déposée, exploitée par une société immatriculée en Algérie. (Adresse à ajouter)."
+    },
+    "section2": {
+      "title": "2. Définitions, Rôles, Responsabilités et Limitations",
+      "definitions": {
+        "title": "2.1 Définitions",
+        "platform": "KHDEMNA / Plateforme : un service en ligne disponible via le site web (URL à insérer) et ses applications mobiles sur iOS et Android.",
+        "client": "Client : un utilisateur cherchant un prestataire pour réaliser un service.",
+        "provider": "Prestataire : un utilisateur proposant ses services aux clients.",
+        "service": "Service : tout service publié ou proposé via KHDEMNA.",
+        "member": "Membre : toute personne physique disposant d'un compte client ou prestataire actif sur la plateforme."
+      },
+      "role": {
+        "title": "2.2 Rôle de KHDEMNA",
+        "description": "KHDEMNA agit en tant qu'intermédiaire entre les parties. Elle facilite la publication d'annonces et la recherche de prestataires mais n'intervient pas dans l'exécution des services ni dans la relation contractuelle qui en découle."
+      },
+      "nonAssumedRoles": {
+        "title": "2.3 Rôles non assumés par KHDEMNA",
+        "description": "KHDEMNA ne joue aucun autre rôle que celui de fournir une plateforme d'annonces et de mise en relation des parties, et à ce titre :",
+        "item1": "n'est ni un employeur, ni un recruteur, ni une agence de placement.",
+        "item2": "ne supervise pas les services.",
+        "item3": "n'exerce aucune autorité sur les clients ou les prestataires.",
+        "item4": "n'est pas mandatée par les prestataires pour rechercher des tiers demandant des services.",
+        "item5": "n'est pas partie à tout contrat qui pourrait se former entre un client et un prestataire.",
+        "item6": "n'intervient à aucun moment dans l'exécution des services entre clients et prestataires, qui sortent du champ des responsabilités de la plateforme."
+      },
+      "clientResponsibilities": {
+        "title": "2.4 Responsabilités du Client",
+        "item1": "Les clients doivent fournir des informations précises et détaillées.",
+        "item2": "Ils sont seuls responsables de leurs demandes.",
+        "item3": "Ils doivent effectuer les déclarations légales appropriées si leur relation avec un prestataire l'exige.",
+        "item4": "La durée estimée d'un service est fournie à titre indicatif. Le client reste le décisionnaire."
+      },
+      "providerCommitments": {
+        "title": "2.5 Engagements du Prestataire",
+        "item1": "Ils doivent être légalement autorisés à exercer dans leur pays.",
+        "item2": "Ils s'engagent à remplir leurs obligations et à fournir un service de qualité."
+      },
+      "limitations": {
+        "title": "2.6 Limitations",
+        "ineligibleServices": {
+          "title": "2.6.1 Services non éligibles",
+          "description1": "KHDEMNA est une plateforme de services à domicile. La liste des services disponibles sur la plateforme peut évoluer à tout moment en fonction des réglementations locales et de la capacité des membres à offrir le service.",
+          "description2": "Cependant, sans être exhaustif, les activités suivantes ne sont pas autorisées sur la plateforme :",
+          "item1": "Toute activité de construction/rénovation nécessitant une assurance obligatoire, affectant la solidité d'un bâtiment ou le rendant impropre à sa destination.",
+          "item2": "Les activités et tâches soumises à une assurance obligatoire ou les professions réglementées.",
+          "item3": "Les activités dans les secteurs financier, politique, pharmaceutique, médical, de l'ingénierie industrielle, de la construction, de la mécanique, de l'aérospatiale, du nucléaire ou de la défense.",
+          "item4": "Les activités de conseil financier, de communication financière, de gestion de patrimoine, d'investissement ou d'ingénierie financière en général."
+        },
+        "providerCompetencies": {
+          "title": "2.6.2 Compétences des Prestataires",
+          "item1": "KHDEMNA permet aux prestataires de présenter leurs compétences et leur matériel. KHDEMNA ne valide pas ces données. Les prestataires sont seuls responsables de proposer des services qu'ils sont capables de réaliser, aux conditions tarifaires définies lors de la réservation.",
+          "item2": "La plateforme est un espace communautaire et partage publiquement des données qualitatives sur les services réalisés, sur la base des informations fournies par les clients. Ces informations sont fournies à titre informatif sans que KHDEMNA ne puisse les vérifier.",
+          "item3": "KHDEMNA n'est pas responsable de la bonne exécution du service mais mettra tout en œuvre pour assister les membres dans le cadre de ses responsabilités."
+        }
+      }
+    },
+    "section3": {
+      "title": "3. Inscription des Membres",
+      "eligibility": {
+        "title": "3.1 Éligibilité",
+        "description1": "Seules les personnes physiques majeures selon la législation du pays où le service est exécuté et disposant de la pleine capacité juridique peuvent s'inscrire sur le site.",
+        "description2": "KHDEMNA se réserve le droit de refuser l'inscription à toute personne ne respectant pas ces Conditions Générales ou la législation applicable."
+      },
+      "registrationMethod": {
+        "title": "3.2 Modalités d'inscription",
+        "description": "Pour déposer une annonce d'emploi ou un profil de prestataire, tout utilisateur doit s'inscrire sur le site pour devenir membre. Il peut le faire en :",
+        "item1": "se rendant sur le site, en cliquant sur l'onglet 'Inscription', et en remplissant les champs obligatoires du formulaire d'inscription (nom d'utilisateur, mot de passe, code postal, adresse e-mail valide, etc.). Une fois ces champs remplis, l'utilisateur doit valider son inscription en cliquant sur le bouton 'S'inscrire' et accepter les Conditions Générales du site.",
+        "item2": "Les prestataires doivent faire valider la création de leur compte par les représentants de l'entreprise au bureau local."
+      },
+      "validity": {
+        "title": "3.3 Validité",
+        "description": "En validant son inscription, l'utilisateur reconnaît avoir fourni des informations personnelles exactes et à jour dans le formulaire d'inscription. Si des informations requises changent au fil du temps, le membre s'engage à mettre à jour son profil rapidement."
+      }
+    },
+    "section4": {
+      "title": "4. Services et Conditions Financières pour les Clients",
+      "servicePricing": {
+        "title": "4.1 Tarification des Services",
+        "description": "Le prix proposé par l'application est déterminé sur la base des données de notre tableau de bord. Les prix sont indexés en fonction du type de service et de la durée du service. Ces prix peuvent évoluer dans le temps."
+      },
+      "platformFees": {
+        "title": "4.2 Frais de Service de la Plateforme",
+        "description": "La publication d'une annonce d'emploi sur la plateforme est gratuite ; cependant, des frais de service s'appliquent au prestataire une fois le service validé. Le montant des frais de service est égal à 20% de la rémunération du prestataire."
+      },
+      "paymentTerms": {
+        "title": "4.3 Conditions de Paiement",
+        "cashPayments": {
+          "title": "4.3.1 Paiements en espèces",
+          "description": "Le client est tenu de payer le prestataire à la fin du service. Le prestataire, à son tour, doit verser une commission à la plateforme après chaque service terminé."
+        },
+        "proofOfPayment": {
+          "title": "4.3.2 Preuve de Paiement",
+          "description": "La preuve de la transaction financière est basée sur les données enregistrées par l'organisation. Les membres sont encouragés à conserver le reçu électronique enregistré dans leur compte pour leurs besoins personnels. La facturation des frais de service ou les certificats seront produits numériquement ; il n'y aura pas de documents papier. Tous ces éléments, en fonction de l'activité de l'utilisateur, seront accessibles sur la plateforme."
+        }
+      }
+    },
+    "section5": {
+      "title": "5. Assurance KHDEMNA",
+      "description": "KHDEMNA ne peut être tenue responsable des dommages causés lors des services. Selon la situation, il appartient au client ou au prestataire d'activer son assurance appropriée.",
+      "exclusion": {
+        "title": "5.1 Exclusion",
+        "description": "Le vol, la perte ou la disparition de biens confiés sont des cas qui ne peuvent être traités par KHDEMNA. Une procédure judiciaire doit être engagée auprès des autorités compétentes."
+      }
+    },
+    "section6": {
+      "title": "6. Politique d'Annulation",
+      "item1": "Le client et le prestataire peuvent annuler la réservation à tout moment avant que le service ne soit exécuté sans aucune obligation financière l'un envers l'autre.",
+      "item2": "En cas d'annulation par le prestataire, le client peut sélectionner un nouveau prestataire pour la même tâche sans frais supplémentaires."
+    },
+    "section7": {
+      "title": "7. Services et Conditions Financières pour les Prestataires",
+      "item1": "KHDEMNA met à la disposition des prestataires une application mobile dédiée, 'KHDEMNA Jobber', leur permettant de gérer leur profil, de configurer et d'automatiser leurs offres, de synchroniser leurs plannings et d'améliorer leur score de visibilité.",
+      "item2": "L'accès à l'application et son utilisation ne nécessitent ni abonnement ni prépaiement.",
+      "item3": "En contrepartie, la plateforme prélève une commission sur les revenus perçus directement par son intermédiaire."
+    },
+    "section8": {
+      "title": "8. Exclusion ou Suppression de Membre",
+      "violation": {
+        "title": "8.1 Violation des Conditions Générales",
+        "description": "Toute violation de ces Conditions Générales par un membre peut entraîner son exclusion du site."
+      },
+      "otherReasons": {
+        "title": "8.2 Autres motifs d'exclusion",
+        "description": "De manière générale, les membres s'engagent à ne pas utiliser le site à des fins :",
+        "item1": "injurieuses, diffamatoires, contraires à l'ordre public ou aux bonnes mœurs ;",
+        "item2": "portant atteinte à la vie privée de tiers ;",
+        "item3": "directement promotionnelles ou constituant de la publicité interdite par les lois applicables ;",
+        "item4": "constituant des messages commerciaux non sollicités ;",
+        "item5": "visant à contourner les règles sociales et fiscales applicables en matière de demandes ou d'offres d'emploi ;",
+        "item6": "incompatibles avec la protection des données personnelles ;",
+        "item7": "constituant un dénigrement d'une entreprise ou de ses produits, du parasitisme, de la concurrence déloyale ou de la contrefaçon ;",
+        "item8": "perturbant le fonctionnement du site ;",
+        "item9": "ou plus largement, violant toute loi ou réglementation en vigueur."
+      },
+      "consequences": {
+        "title": "8.3 Conséquences de l'exclusion",
+        "description": "En cas d'exclusion d'un membre, KHDEMNA ne pourra être tenue pour responsable, et toutes ses annonces d'emploi et/ou son profil de prestataire seront supprimés."
+      },
+      "accountDeletion": {
+        "title": "8.4 Suppression de compte par un membre",
+        "item1": "Tout membre peut clôturer son compte à tout moment, sous réserve de remplir les obligations contractées avant la clôture (prestation de service, paiement des frais, transactions entre un client et un prestataire, etc.).",
+        "item2": "Lors de la suppression du compte, un message alertera l'utilisateur de toute transaction en cours.",
+        "item3": "Un compte supprimé ne peut être récupéré."
+      },
+      "inactivity": {
+        "title": "8.5 Inactivité",
+        "description": "En cas d'inactivité d'un membre pendant 365 jours consécutifs, le compte sera considéré comme abandonné et par conséquent désactivé. Passé ce délai, le compte sera considéré comme abandonné et supprimé selon les mêmes règles définies au paragraphe précédent."
+      }
+    },
+    "section9": {
+      "title": "9. Clause de vérification des antécédents des prestataires",
+      "backgroundCheck": {
+        "title": "9.1 Vérification des antécédents des prestataires",
+        "description": "Pour garantir la sécurité et la confiance au sein de la communauté KHDEMNA, chaque prestataire peut faire l'objet d'une procédure de vérification des antécédents avant ou pendant son utilisation de la plateforme. Dans les limites des lois locales applicables, cette procédure peut inclure les éléments suivants :",
+        "item1": "Vérification de l'identité : KHDEMNA se réserve le droit de vérifier l'identité du prestataire à l'aide de documents d'identification officiels fournis par le prestataire.",
+        "item2": "Vérification du casier judiciaire : Dans la mesure permise par la loi, KHDEMNA peut utiliser des services tiers spécialisés pour vérifier que le prestataire n'a pas de condamnations pénales pertinentes qui pourraient compromettre la sécurité des utilisateurs.",
+        "item3": "Qualifications professionnelles et licences : Les prestataires doivent fournir les licences, permis ou certifications nécessaires pour les services offerts via KHDEMNA, conformément aux lois locales. KHDEMNA ne vérifie pas systématiquement ces documents mais peut demander leur soumission dans le cadre de la vérification des antécédents."
+      },
+      "providerConsent": {
+        "title": "9.2 Consentement du prestataire",
+        "description": "En s'inscrivant sur KHDEMNA, le prestataire consent à cette vérification des antécédents et accepte que ses données puissent être partagées avec les partenaires de vérification de KHDEMNA uniquement dans le but de mener cette vérification. Les informations collectées lors de cette procédure seront traitées conformément à la Politique de Confidentialité de KHDEMNA."
+      },
+      "liabilityLimitation": {
+        "title": "9.3 Limitation de responsabilité",
+        "description": "KHDEMNA s'efforce de fournir un environnement sécurisé en effectuant des vérifications mais ne garantit pas l'exactitude, l'exhaustivité ou l'actualité des informations obtenues lors de la vérification des antécédents. KHDEMNA décline toute responsabilité pour les fausses déclarations ou les erreurs dans les informations fournies par le prestataire ou les services tiers."
+      }
+    },
+    "section10": {
+      "title": "10. Protection des Données Personnelles",
+      "description1": "Conformément aux lois sur la protection des données, KHDEMNA s'engage à protéger les données personnelles des utilisateurs. Ces données sont collectées et traitées uniquement dans le but d'utiliser la plateforme.",
+      "item1": "Gestion des données : KHDEMNA ne partage pas les données personnelles avec des tiers sans le consentement explicite des utilisateurs.",
+      "item2": "Droits d'accès et de rectification : Conformément à la loi, les utilisateurs peuvent accéder à leurs données personnelles, les modifier ou demander leur suppression en contactant KHDEMNA à [ADRESSE E-MAIL À AJOUTER].",
+      "description2": "Pour plus de détails, veuillez consulter notre <a href='#' class='text-blue-600 hover:underline font-semibold'>Politique de Confidentialité</a>."
+    },
+    "section11": {
+      "title": "11. Propriété Intellectuelle",
+      "khdemnaIP": {
+        "title": "11.1 Propriété Intellectuelle de KHDEMNA",
+        "description": "KHDEMNA détient les droits de propriété intellectuelle sur le site en tant que plateforme d'annonces de membres (architecture du site, organisation des fonctionnalités, ergonomie, fonctionnalités logicielles, etc.). Toute reproduction des éléments constitutifs du site sans l'autorisation écrite préalable de KHDEMNA peut constituer une contrefaçon et engager la responsabilité civile et/ou pénale de l'auteur."
+      },
+      "externalIP": {
+        "title": "11.2 Utilisation de la Propriété Intellectuelle externe sur le site",
+        "description1": "Les membres s'engagent à ne publier sur le site aucun élément (texte, photographie, image, logo, ou toute autre création ou signe soumis à des droits de propriété intellectuelle) sans le consentement écrit préalable du titulaire des droits.",
+        "description2": "Au besoin, les membres accordent à KHDEMNA une licence d'utilisation des droits de propriété intellectuelle attachés aux contenus qu'ils pourraient insérer sur le site. Cette licence mondiale, pour la durée des droits en question, inclut le droit pour KHDEMNA de reproduire, représenter ou adapter ledit contenu pour assurer une présentation optimale sur le site (notamment en ce qui concerne sa charte graphique et ses performances techniques)."
+      },
+      "contentLicense": {
+        "title": "11.3 Licence d'utilisation du contenu par KHDEMNA",
+        "description1": "Les membres (clients et prestataires) reconnaissent et acceptent que toute photographie, image ou contenu visuel qu'ils publient sur la plateforme KHDEMNA dans le cadre d'une annonce de service ou d'un avis peut être utilisé par KHDEMNA à des fins promotionnelles et de communication.",
+        "description2": "À cette fin, les membres accordent à KHDEMNA une licence mondiale, gratuite, non exclusive et transférable pour reproduire, représenter, modifier, adapter et distribuer ce contenu sur tous les supports de communication liés à KHDEMNA, y compris, mais sans s'y limiter :",
+        "item1": "Le site web et les applications mobiles de KHDEMNA,",
+        "item2": "Les plateformes de médias sociaux de KHDEMNA (Facebook, Instagram, LinkedIn, Twitter, etc.),",
+        "item3": "Les campagnes publicitaires en ligne et hors ligne.",
+        "description3": "Cette licence est accordée pour toute la durée des droits de propriété intellectuelle associés audit contenu, sauf demande écrite de retrait par le membre à [ADRESSE À AJOUTER]. Dans ce cas, KHDEMNA s'engage à retirer le contenu concerné dans un délai raisonnable, sous réserve des contraintes techniques et des campagnes en cours."
+      }
+    }
+  },
+  "Footer": {
+    "logoAlt": "Logo Khdemna",
+    "brandName": "Khdemna",
+    "description": "Votre partenaire de confiance pour trouver des professionnels des services à domicile.",
+    "services": {
+      "title": "Services",
+      "plumbing": "Plomberie",
+      "handyman": "Bricoleur",
+      "cleaning": "Nettoyage",
+      "building": "Construction"
+    },
+    "resources": {
+      "title": "Ressources",
+      "blog": "Blog",
+      "helpCenter": "Centre d'aide",
+      "faq": "FAQ"
+    },
+    "legal": {
+      "title": "Légal",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfService": "Conditions de service"
+    },
+    "languages": {
+      "english": "Anglais",
+      "french": "Français",
+      "arabic": "Arabe"
+    },
+    "copyright": "© Khdemna. 2025. Tous droits réservés."
+  },
+  "Benefits": {
+    "slider": {
+      "title": "Améliorez votre qualité de vie avec les services à domicile"
+    },
+    "services": [
+      {
+        "title": "Bricolage",
+        "description": "Particulièrement utile pour réaliser vos aménagements et réparer ce qui s'abîme avec le temps.",
+        "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+      },
+      {
+        "title": "Déménagement",
+        "description": "Faciliter le déménagement et alléger le stress émotionnel pour les membres de la famille.",
+        "image": "https://images.unsplash.com/photo-1587582423116-ec07293f0395?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+      },
+      {
+        "title": "Ménage",
+        "description": "Libérez-vous du temps pour vos activités personnelles, familiales et professionnelles.",
+        "image": "/src/assets/images/service-menage-a-domicile.jpg"
+      }
+    ],
+    "benefits": {
+      "title": "Nos principaux avantages",
+      "description": "Découvrez pourquoi des milliers de clients nous font confiance pour les connecter avec les meilleurs prestataires.",
+      "fastConnections": {
+        "title": "Connexions rapides",
+        "description": "Trouvez et engagez rapidement le bon professionnel pour votre travail."
+      },
+      "vettedProfessionals": {
+        "title": "Professionnels vérifiés",
+        "description": "Tous les prestataires sur notre plateforme sont vérifiés et contrôlés."
+      },
+      "communityPartnerships": {
+        "title": "Communauté et partenariats",
+        "description": "Nous construisons des relations solides avec les entreprises locales et les communautés."
+      }
+    }
+  },
+  "Services": {
+    "title": "Fournir les meilleurs services",
+    "description": "Nous nous engageons à fournir les meilleurs services dans l'industrie de l'amélioration de l'habitat. Notre plateforme vous connecte avec une large gamme de professionnels pour gérer toute tâche, grande ou petite.",
+    "plumbing": {
+      "title": "Services de plomberie",
+      "description": "Des robinets qui fuient aux réparations majeures de tuyaux, trouvez des plombiers expérimentés pour faire le travail correctement.",
+      "image": "/images/plumber.png",
+      "alt": "Plombier réparant un évier",
+      "link": "En savoir plus"
+    },
+    "handyman": {
+      "title": "Services de bricolage",
+      "description": "Pour toutes ces petites réparations et installations autour de la maison, nos bricoleurs sont prêts à aider.",
+      "image": "/images/handyMan2.png",
+      "alt": "Bricoleur assemblant des meubles",
+      "link": "En savoir plus"
+    },
+    "cleaning": {
+      "title": "Services de nettoyage",
+      "description": "Réservez des services de nettoyage professionnels pour votre maison ou bureau, de l'entretien régulier au nettoyage en profondeur.",
+      "image": "/images/CleaningMan.png",
+      "alt": "Personne nettoyant une fenêtre",
+      "link": "En savoir plus"
+    }
+  },
+  "Hero": {
+    "title": "Khdemna.. Votre service livré à votre porte",
+    "subtitle": "Réservez le prestataire idéal",
+    "categories": {
+      "summer": {
+        "icon": "🍦",
+        "name": "Été"
+      },
+      "handyman": {
+        "icon": "🔨",
+        "name": "Bricolage"
+      },
+      "cleaning": {
+        "icon": "🧹",
+        "name": "Ménage"
+      },
+      "childcare": {
+        "icon": "🛒",
+        "name": "Garde d'enfants"
+      },
+      "homecare": {
+        "icon": "🛎️",
+        "name": "Aide à domicile"
+      },
+      "tutoring": {
+        "icon": "🎓",
+        "name": "Cours particuliers"
+      }
+    }
+  },
+  "Faq": {
+    "title": "Nous avons un support disponible 24/7",
+    "description": "Notre équipe est toujours là pour vous aider avec toutes les questions ou problèmes que vous pourriez avoir.",
+    "contactButton": "Contacter le support",
+    "faqs": {
+      "booking": {
+        "question": "Comment réserver un prestataire de services ?",
+        "answer": "Recherchez simplement le service dont vous avez besoin, parcourez la liste des prestataires disponibles, vérifiez leurs profils et avis, puis réservez-les directement via notre plateforme."
+      },
+      "payment": {
+        "question": "Quelles sont les options de paiement ?",
+        "answer": "Nous acceptons toutes les principales cartes de crédit, PayPal et les virements bancaires directs. Tous les paiements sont traités de manière sécurisée via notre plateforme."
+      },
+      "safety": {
+        "question": "Est-il sûr de laisser les prestataires entrer chez moi ?",
+        "answer": "Oui, absolument. Tous les prestataires sur notre plateforme sont soumis à une vérification rigoureuse de leurs antécédents et leurs qualifications et expériences sont vérifiées. Votre sécurité est notre priorité absolue."
+      },
+      "satisfaction": {
+        "question": "Et si je ne suis pas satisfait du service ?",
+        "answer": "Nous offrons une garantie de satisfaction. Si vous n'êtes pas satisfait du service fourni, veuillez contacter notre équipe de support dans les 24 heures, et nous travaillerons à résoudre le problème ou à fournir un remboursement."
+      }
+    }
+  },
+  "CallToAction": {
+    "title": "Prêt à commencer ?",
+    "description": "Rejoignez notre communauté aujourd'hui et connectez-vous avec des professionnels de confiance pour tous vos besoins en services à domicile.",
+    "clients": {
+      "title": "Pour nos clients",
+      "appStoreAlt": "Télécharger sur l'App Store",
+      "googlePlayAlt": "Disponible sur Google Play"
+    },
+    "providers": {
+      "title": "Pour nos professionnels",
+      "appStoreAlt": "Télécharger sur l'App Store",
+      "googlePlayAlt": "Disponible sur Google Play"
+    },
+    "contactButton": "Contactez-nous"
+  },
+  "aboutUs": {
+    "title": "À propos de nous – Khdemna",
+    "introduction": "Khdemna est la première application mobile en Algérie dédiée aux services à domicile, pensée pour vous simplifier la vie au quotidien. Nettoyage, garde d'enfants, repassage, cours à domicile... nous vous connectons à des professionnels de confiance, vérifiés et disponibles, où que vous soyez, quand vous le souhaitez.",
+    "mission": {
+      "title": "Notre mission:",
+      "text": "Vous offrir un accès rapide, sécurisé et transparent à tous les services à domicile, via une plateforme intuitive, moderne et 100% algérienne."
+    },
+    "whatWeOffer": {
+      "title": "Ce que nous proposons:",
+      "items": {
+        "simpleApp": "Une application simple et rapide à utiliser",
+        "clearPricing": "Des tarifs clairs, sans surprise",
+        "qualifiedProviders": "Des prestataires locaux qualifiés",
+        "realTimeTracking": "Un suivi de prestation en temps réel"
+      }
+    },
+    "slogan": "Khdemna: parce que le service vient à vous, plus besoin de chercher partout.",
+    "tagline": "Un clic, et c'est réglé."
+  },
+  "homeService": {
+    "mainTitle": "Khdemna",
+    "subtitle": "Votre solution ultime pour un service à domicile, conçu pour votre confort et vos besoins.",
+    "features": {
+      "reliability": {
+        "title": "Fiabilité  ",
+        "description": "Nous vous mettons en relation avec des professionnels vérifiés et de confiance, pour une expérience sereine et sécurisée."
+      },
+      "speed": {
+        "title": "Rapidité  ",
+        "description": "Commandez en quelques clics et bénéficiez d'un service rapide et ponctuel, où que vous soyez."
+      },
+      "transparency": {
+        "title": "Transparence  ",
+        "description": "Peu de surprise, vous choisissez, vous validez, vous suivez. Tout est clair dès le départ."
+      },
+      "proximity": {
+        "title": "Proximité  ",
+        "description": "Des prestataires locaux, proches de vous, qui comprennent vos besoins du quotidien."
+      },
+      "simplicity": {
+        "title": "Simplicité  ",
+        "description": "Une interface intuitive, des étapes claires, un service à domicile à portée de main."
+      },
+      "professionalism": {
+        "title": "Professionnalisme  ",
+        "description": "Nous misons sur des intervenants qualifiés, formés et évalués pour chaque mission."
+      }
+    },
+    "downloadButton": "Télécharger l'app"
+  }
+}
